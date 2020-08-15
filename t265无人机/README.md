@@ -28,7 +28,7 @@
 
 安装完realsense驱动后，终端运行：
 
-`roslaunch realsense_camera rs_t265.launch`
+`roslaunch realsense2_camera rs_t265.launch`
 
 启动：
 
